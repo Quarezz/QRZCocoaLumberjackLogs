@@ -9,3 +9,6 @@ Custom log levels header.
 - Storage
 - Info
 - Debug
+
+
+## To change log level - see end of file for **ddLogLevel** property.
