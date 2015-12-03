@@ -11,4 +11,4 @@ Custom log levels header.
 - Debug
 
 
-## To change log level - see end of file for **ddLogLevel** property.
+To change log level - see end of file for **ddLogLevel** property.
